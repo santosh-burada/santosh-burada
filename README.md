@@ -3,10 +3,10 @@
 # Welcome to my GitHub profile!, I am Santosh Burada! 👋
 
 # 💫 About Me:
-- I'm pursuing my Master of Science in Computer Science from California State University, Fullerton, with a GPA of 3.7.
+- I completed my Master of Science in Computer Science from California State University, Fullerton, with a GPA of 3.7.
 - Earned my Bachelor of Technology in Information Technology from GMR Institute of Technology, Srikakulam, India.
 - Skilled in Python, Java, cloud computing (GCP, AWS), DevOps tools (Git, Terraform, Ansible, Jenkins), and databases (SQL, NoSQL, MySQL, MongoDB, Google Big Query).
-- Certified Kubernetes Application Developer (CKAD) by The Linux Foundation.
+- Certified Kubernetes Application Developer (CKAD) and Administrator (CKA) by The Linux Foundation.
 - Work experience includes a role as a DevOps Intern at Entertainment Partners, Burbank, USA, enhancing operational efficiency by 25% through strategic data pipeline development, and as an Application Development Associate at Accenture, Hyderabad, India.
 - Engaged in projects like Stack Overflow Data Analysis using Hadoop and Spark, and developed an advanced attendance system using TensorFlow and Kubernetes.
 
